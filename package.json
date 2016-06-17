@@ -1,14 +1,14 @@
 {
-  "name": "scratch",
+  "name": "react-scratch",
   "version": "0.0.1",
-  "description": "",
+  "description": "Minimal react setup",
   "main": "index.js",
   "scripts": {
     "serve-dev": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Edward Mulraney",
+  "license": "MIT",
   "dependencies": {
     "babel-core": "^6.9.1",
     "babel-loader": "^6.2.4",
